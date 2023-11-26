@@ -52,14 +52,11 @@ https://github.com/LlMrc/Hidden-drawer/assets/90993312/ca5f30a4-0b0a-4722-9115-5
 
 
 ## Contributing
+https://www.buymeacoffee.com/llouismrc2W
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this template.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This is a basic structure, and you may want to include additional sections depending on the complexity of your template and specific instructions for users. Adjust and expand as needed.
 
