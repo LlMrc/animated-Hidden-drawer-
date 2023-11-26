@@ -15,21 +15,25 @@ This Flutter project serves as a template for implementing a hidden drawer navig
 ## Getting Started
 
 1. **Clone the Repository:**
+
+2.  ## Buy me a coffee  https://www.buymeacoffee.com/llouismrc2W
+  
+   
    ```bash
    git clone https://github.com/yourusername/flutter-hidden-drawer-template.git
    ```
 
-2. **Navigate to the Project Directory:**
+4. **Navigate to the Project Directory:**
    ```bash
    cd flutter-hidden-drawer-template
    ```
 
-3. **Install Dependencies:**
+5. **Install Dependencies:**
    ```bash
    flutter pub get
    ```
 
-4. **Run the App:**
+6. **Run the App:**
    ```bash
    flutter run
    ```
