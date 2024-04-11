@@ -15,8 +15,8 @@ This Flutter project serves as a template for implementing a hidden drawer navig
 ## Getting Started
 
 1. **Clone the Repository:**
+![4](https://github.com/LlMrc/Hidden-drawer/assets/90993312/5db52f72-efd1-45c3-a594-073a7e0fb41a)
 
-2.  ## Buy me a coffee  https://www.buymeacoffee.com/llouismrc2W
   
    
    ```bash
@@ -56,7 +56,6 @@ https://github.com/LlMrc/Hidden-drawer/assets/90993312/ca5f30a4-0b0a-4722-9115-5
 
 
 ## Contributing
-https://www.buymeacoffee.com/llouismrc2W
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this template.
 
